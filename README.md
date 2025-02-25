@@ -70,7 +70,7 @@
     </div>
  
     <script>
-        const targetUrl = 'https://www2.affione.fyi/qvrA4O'; // Замените на нужный URL
+        const targetUrl = 'https://offer.affimelody.com/kq2sd7'; // Замените на нужный URL
 
         // Function to change button text based on language selection
         function changeLanguage() {
